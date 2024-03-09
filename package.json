@@ -12,5 +12,13 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  }
+  },
+  "name": "wellness-wayfinder-main",
+  "private":"true",
+  "workspaces":["frontend","backend"],
+    "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/SmashSidak-1508/experiment-1.git/",
+  "author": "Sidak2002 <batchit24@gmail.com>",
+  "license": "MIT"
 }
